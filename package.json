@@ -1,8 +1,8 @@
 {
   "private": true,
   "version": "1.0.0",
-  "name": "run-factory-model",
-  "displayName": "Run Factory Model",
+  "name": "invoker-plugin-model-factory",
+  "displayName": "invoker-plugin-model-factory",
   "main": "dist/js/main.js",
   "renderer": "dist/js/renderer.js",
   "engines": {
