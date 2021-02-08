@@ -4,24 +4,13 @@
 
 ### Plugin that allows you to run your model factories directly in Invoker.
 
+## Installation
 
-## Global Installation
-
-- Clone the repository on your local machine.
-
-
-`git@github.com:zarate-systems/invoker-plugin-model-factory.git`
-
-- Install the npm dependencies.
-
-`npm install`
-
-- Create the plugin zip file.
-
-`npm run build-plugin`
-
-
-**Load the plugin from the plugins section on Invoker and select the generated zip file.**
+- Download the zip file in the releases section.
+- Open your Invoker app.
+- Now open the plugins page in Invoker
+- Load the zip file by pressing the "Load from disk" button.
+- Restart Invoker app.
 
 ## Local Installation
 
